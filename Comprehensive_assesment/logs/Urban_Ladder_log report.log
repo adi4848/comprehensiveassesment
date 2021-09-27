@@ -1,0 +1,16 @@
+
+17:37:04.000 [main] INFO  Runner.Runner - Sucessfully logged in to urban ladder
+17:37:08.796 [main] INFO  Runner.Runner - Sucessfully opened sales header and acessed sub option 
+17:37:11.894 [main] INFO  Runner.Runner - Sucessfully opened living header and acessed sub option 
+17:37:14.255 [main] INFO  Runner.Runner - Sucessfully opened bedroom header and acessed sub option 
+17:37:17.336 [main] INFO  Runner.Runner - Sucessfully opened dining header and acessed sub option 
+17:37:21.863 [main] INFO  Runner.Runner - Sucessfully opened storage header and acessed sub option 
+17:37:26.841 [main] INFO  Runner.Runner - Sucessfully opened study header and acessed sub option 
+17:37:30.368 [main] INFO  Runner.Runner - Sucessfully opened kids_room header and acessed sub option 
+17:37:34.232 [main] INFO  Runner.Runner - Sucessfully opened mattress header and acessed sub option 
+17:37:36.456 [main] INFO  Runner.Runner - Sucessfully opened decor header and acessed sub option 
+17:37:41.054 [main] INFO  Runner.Runner - Sucessfully opened collection header and acessed sub option 
+17:37:57.462 [main] INFO  Runner.Runner - Search for office chairs sucessfull
+17:38:07.410 [main] INFO  Runner.Runner - Search for sofa sucessfull
+17:38:13.659 [main] INFO  Runner.Runner - Search for table sucessfull
+17:38:20.670 [main] INFO  Runner.Runner - Search for bookshelf sucessfull
