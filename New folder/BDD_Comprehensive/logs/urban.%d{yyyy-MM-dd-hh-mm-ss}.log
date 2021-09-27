@@ -1,0 +1,32 @@
+12:30:04.400 [main] INFO  runner.runner - trail of log part1
+12:30:18.538 [main] INFO  runner.runner - Logging in using id and password
+12:31:09.696 [main] INFO  runner.runner - Acessing bedroom header
+12:31:09.697 [main] INFO  runner.runner - Bedroom header suboptions diplayed
+12:31:39.124 [main] INFO  runner.runner - Hovered over study header
+12:31:39.125 [main] INFO  runner.runner - Dropdown for study header displayed
+12:33:53.228 [main] INFO  runner.runner - trail of log part1
+12:34:04.556 [main] INFO  runner.runner - Logging in using id and password
+12:34:05.021 [main] INFO  runner.runner - User logging in using id and password
+12:34:06.586 [main] INFO  runner.runner - User loged in sucessfully
+12:34:07.433 [main] INFO  runner.runner - User clicked on search box
+12:34:13.377 [main] INFO  runner.runner - User entered diningtable in search box 
+12:34:13.378 [main] INFO  runner.runner - Srearch sucessful
+12:34:13.379 [main] INFO  runner.runner - Item displayed
+12:34:14.613 [main] INFO  runner.runner - User clicked on search box
+12:34:18.555 [main] INFO  runner.runner - User entered sofa in search box 
+12:34:18.556 [main] INFO  runner.runner - Srearch sucessful
+12:34:18.556 [main] INFO  runner.runner - Item displayed
+12:34:20.190 [main] INFO  runner.runner - User clicked on search box
+12:34:24.206 [main] INFO  runner.runner - User entered office chairs in search box 
+12:34:24.207 [main] INFO  runner.runner - Srearch sucessful
+12:34:24.207 [main] INFO  runner.runner - Item displayed
+12:34:24.771 [main] INFO  runner.runner - User clicked on search box
+12:34:30.005 [main] INFO  runner.runner - User entered table in search box 
+12:34:30.006 [main] INFO  runner.runner - Srearch sucessful
+12:34:30.006 [main] INFO  runner.runner - Item displayed
+12:35:06.646 [main] INFO  runner.runner - Acessing bedroom header
+12:35:06.646 [main] INFO  runner.runner - Bedroom header suboptions diplayed
+12:35:09.297 [main] INFO  runner.runner - Matress suboptions displayed 
+12:35:23.984 [main] INFO  runner.runner - Hovered over study header
+12:35:23.984 [main] INFO  runner.runner - Dropdown for study header displayed
+12:35:25.318 [main] INFO  runner.runner - Suboption selected for study
