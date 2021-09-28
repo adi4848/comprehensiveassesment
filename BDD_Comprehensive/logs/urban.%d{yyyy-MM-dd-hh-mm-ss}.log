@@ -30,3 +30,26 @@
 12:35:23.984 [main] INFO  runner.runner - Hovered over study header
 12:35:23.984 [main] INFO  runner.runner - Dropdown for study header displayed
 12:35:25.318 [main] INFO  runner.runner - Suboption selected for study
+20:12:30.760 [main] INFO  runner.runner - trail of log part1
+20:12:50.041 [main] INFO  runner.runner - User clicked on search box
+20:12:57.039 [main] INFO  runner.runner - User entered diningtable in search box 
+20:12:57.040 [main] INFO  runner.runner - Srearch sucessful
+20:12:57.041 [main] INFO  runner.runner - Item displayed
+20:12:57.385 [main] INFO  runner.runner - User clicked on search box
+20:13:06.278 [main] INFO  runner.runner - User entered sofa in search box 
+20:13:06.279 [main] INFO  runner.runner - Srearch sucessful
+20:13:06.280 [main] INFO  runner.runner - Item displayed
+20:13:07.734 [main] INFO  runner.runner - User clicked on search box
+20:13:14.374 [main] INFO  runner.runner - User entered office chairs in search box 
+20:13:14.375 [main] INFO  runner.runner - Srearch sucessful
+20:13:14.375 [main] INFO  runner.runner - Item displayed
+20:13:14.843 [main] INFO  runner.runner - User clicked on search box
+20:13:21.442 [main] INFO  runner.runner - User entered table in search box 
+20:13:21.443 [main] INFO  runner.runner - Srearch sucessful
+20:13:21.443 [main] INFO  runner.runner - Item displayed
+20:13:57.878 [main] INFO  runner.runner - Acessing bedroom header
+20:13:57.879 [main] INFO  runner.runner - Bedroom header suboptions diplayed
+20:14:00.620 [main] INFO  runner.runner - Matress suboptions displayed 
+20:14:20.669 [main] INFO  runner.runner - Hovered over study header
+20:14:20.673 [main] INFO  runner.runner - Dropdown for study header displayed
+20:14:23.452 [main] INFO  runner.runner - Suboption selected for study

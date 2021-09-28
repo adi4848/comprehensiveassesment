@@ -55,7 +55,6 @@ public class stepDefination2 extends abstractpagestepDefination{
     	p.getSearchBox().sendKeys(item);
     	p.getSearchBoxClick().click();
     	ReusableMethods.getURL(driver);
-    	Assert.assertTrue(true);
     	System.out.println(item+" Entered in search box and searched");
     	log.info("User entered "+item+" in search box ");
     	
